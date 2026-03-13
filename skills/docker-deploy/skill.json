@@ -1,0 +1,14 @@
+{
+  "name": "docker-deploy",
+  "version": "1.0.0",
+  "description": "自動為前後端專案生成 Docker 部署方案（docker-compose + Dockerfile + 部署腳本）",
+  "author": "Leo Hsu",
+  "tags": ["docker", "deployment", "devops", "automation"],
+  "platforms": ["any"],
+  "license": "MIT",
+  "files": {
+    "SKILL.md": "主文件 — AI 讀取後為專案生成 Docker 部署方案",
+    "templates/": "各框架的 Dockerfile 模板和部署腳本模板"
+  },
+  "usage": "請讀取 SKILL.md，然後分析我的專案，生成完整的 Docker 部署方案。"
+}

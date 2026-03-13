@@ -1,0 +1,14 @@
+{
+  "name": "api-docs-generator",
+  "version": "1.0.0",
+  "description": "掃描後端程式碼，自動生成完整 API 文件（Endpoint 清單、Request/Response 格式、權限說明）",
+  "author": "Leo Hsu",
+  "tags": ["api", "documentation", "backend", "automation"],
+  "platforms": ["any"],
+  "license": "MIT",
+  "files": {
+    "SKILL.md": "主文件 — AI 讀取後為專案生成 API 文件",
+    "templates/API_DOCS.md": "API 文件模板"
+  },
+  "usage": "請讀取 SKILL.md，然後掃描我的後端專案，生成完整的 API 文件。"
+}

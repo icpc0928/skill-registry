@@ -1,0 +1,14 @@
+{
+  "name": "slot-game-analyzer",
+  "version": "1.0.0",
+  "description": "分析老虎機遊戲程式碼，自動生成技術規格文件（賠率表、特色玩法、數學模型）",
+  "author": "Leo Hsu",
+  "tags": ["slot", "game", "analysis", "igaming", "tech-spec"],
+  "platforms": ["any"],
+  "license": "MIT",
+  "files": {
+    "SKILL.md": "主文件 — AI 讀取後分析老虎機程式碼並生成技術規格",
+    "templates/TECH_SPEC.md": "技術規格文件模板"
+  },
+  "usage": "請讀取 SKILL.md，然後分析我的老虎機遊戲程式碼，生成完整的技術規格文件。"
+}
