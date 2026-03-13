@@ -1,0 +1,16 @@
+{
+  "name": "qa-framework",
+  "version": "1.0.0",
+  "description": "自動為任何專案生成完整 QA 測試框架（測試案例、報告模板、Bug 追蹤），支援增量更新",
+  "author": "Leo Hsu",
+  "tags": ["qa", "testing", "automation", "test-cases", "bug-tracking"],
+  "platforms": ["any"],
+  "license": "MIT",
+  "files": {
+    "SKILL.md": "主文件 — AI 讀取後為專案生成完整 QA 框架",
+    "UPDATE.md": "增量更新 — 根據 git diff 自動更新測試案例",
+    "templates/REPORT.md": "測試報告模板",
+    "templates/BUG.md": "Bug 追蹤模板"
+  },
+  "usage": "請讀取 SKILL.md，然後根據我的專案資訊生成完整的 QA 測試框架。"
+}
