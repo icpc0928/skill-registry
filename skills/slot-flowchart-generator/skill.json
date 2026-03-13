@@ -1,0 +1,14 @@
+{
+  "name": "slot-flowchart-generator",
+  "version": "1.0.0",
+  "description": "分析老虎機遊戲程式碼，自動生成遊戲流程圖（Mermaid 格式），涵蓋主流程、Feature 流程、狀態機",
+  "author": "Leo Hsu",
+  "tags": ["slot", "game", "flowchart", "mermaid", "igaming", "state-machine"],
+  "platforms": ["any"],
+  "license": "MIT",
+  "files": {
+    "SKILL.md": "主文件 — AI 讀取後分析老虎機程式碼並生成流程圖",
+    "templates/FLOWCHART.md": "流程圖文件模板（Mermaid 格式）"
+  },
+  "usage": "請讀取 SKILL.md，然後分析我的老虎機遊戲程式碼，生成完整的遊戲流程圖。"
+}
