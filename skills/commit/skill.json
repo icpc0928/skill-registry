@@ -1,0 +1,10 @@
+{
+  "name": "commit",
+  "version": "1.0.0",
+  "description": "分析 git diff，自動生成符合 Conventional Commit 格式的 commit message 並執行 commit",
+  "author": "Leo Hsu",
+  "tags": ["git", "commit", "conventional-commit", "automation"],
+  "platforms": ["any"],
+  "license": "MIT",
+  "usage": "請讀取 commit/SKILL.md，然後幫我 commit 目前所有的修改。"
+}
