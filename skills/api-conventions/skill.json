@@ -1,0 +1,10 @@
+{
+  "name": "api-conventions",
+  "version": "1.0.0",
+  "description": "寫 API endpoint 時自動套用團隊規範（URL 命名、回傳格式、status code、input validation）",
+  "author": "Leo Hsu",
+  "tags": ["api", "backend", "conventions", "restful", "validation"],
+  "platforms": ["any"],
+  "license": "MIT",
+  "usage": "在寫任何後端 endpoint 時，讓 AI 載入此 skill 以確保符合團隊規範。"
+}
